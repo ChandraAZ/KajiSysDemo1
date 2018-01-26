@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KajiSystemDev1</string>
+    <string name="background_image_str">Background image for album art</string>
+    <string name="play_item">Play item</string>
+    <string name="play_pause">play or pause</string>
+    <string name="skip_next">skip to next</string>
+    <string name="skip_prev">skip to previous</string>
+    <string name="label_stop">Stop</string>
+    <string name="label_pause">Pause</string>
+    <string name="label_play">Play</string>
+    <string name="label_play_pause">Play and pause toggle</string>
+    <string name="label_previous">Previous track</string>
+    <string name="label_next">Next track</string>
+</resources>

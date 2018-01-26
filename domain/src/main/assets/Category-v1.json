@@ -1,0 +1,27 @@
+[
+ {
+   "ID": 1,
+   "Name": "Tauhid",
+   "IsDeleted": 0
+ },
+ {
+   "ID": 2,
+   "Name": "Aqidah",
+   "IsDeleted": 0
+ },
+ {
+   "ID": 3,
+   "Name": "Fiqih",
+   "IsDeleted": 0
+ },
+ {
+   "ID": 4,
+   "Name": "Tajwid",
+   "IsDeleted": 0
+ },
+ {
+   "ID": 5,
+   "Name": "Ahlak",
+   "IsDeleted": 0
+ }
+]
